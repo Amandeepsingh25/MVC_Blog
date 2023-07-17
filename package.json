@@ -1,0 +1,17 @@
+{
+  "name": "mvc_architecture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "axe":"npx nodemon src/index.js"
+  },
+  "author": "Amandeep Singh",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "http-status-codes": "^2.2.0",
+    "nodemon": "^3.0.1"
+  }
+}
